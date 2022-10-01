@@ -2670,3 +2670,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2022-09-29 20:59:39,237 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
 2022-09-29 20:59:39,242 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-29 20:59:39,243 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 12:00:39,940 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
