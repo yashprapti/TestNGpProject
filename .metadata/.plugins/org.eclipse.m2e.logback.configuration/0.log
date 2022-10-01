@@ -2671,3 +2671,60 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2022-09-29 20:59:39,242 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-29 20:59:39,243 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
 2022-10-01 12:00:39,940 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-01 17:56:15,588 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-01 17:56:30,875 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 17:56:30,876 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 17:56:30,883 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 17:56:30,884 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 17:56:32,997 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 17:56:32,997 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\testNGProject\src\main\resources
+2022-10-01 17:56:33,013 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 17:56:33,013 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\testNGProject\src\test\resources
+2022-10-01 17:56:34,279 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 17:56:34,279 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\testNgFramework\src\main\resources
+2022-10-01 17:56:34,279 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 17:56:34,279 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\testNgFramework\src\test\resources
+2022-10-01 18:00:39,336 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:00:39,340 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 18:00:39,345 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:00:39,346 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 18:38:16,570 [Worker-16: Launching IndexPageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:38:16,571 [Worker-16: Launching IndexPageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 18:38:16,575 [Worker-16: Launching IndexPageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:38:16,576 [Worker-16: Launching IndexPageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 18:55:10,396 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:55:10,397 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 18:55:10,401 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:55:10,401 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 18:55:40,761 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:55:40,762 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 18:55:40,766 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:55:40,767 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 18:55:52,751 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:55:52,751 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 18:55:52,754 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 18:55:52,755 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 19:14:22,985 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 19:14:22,986 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 19:14:22,992 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 19:14:22,993 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 19:28:09,751 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 19:28:09,752 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 19:28:09,756 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 19:28:09,757 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 19:36:58,158 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 19:36:58,159 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 19:36:58,163 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 19:36:58,164 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 19:42:00,732 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 19:42:00,733 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 19:42:00,742 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 19:42:00,744 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 20:01:53,688 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 20:01:53,689 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 20:01:53,693 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 20:01:53,694 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
+2022-10-01 20:07:39,239 [Worker-36: Launching SearchresultTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 20:07:39,240 [Worker-36: Launching SearchresultTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\main\resources
+2022-10-01 20:07:39,243 [Worker-36: Launching SearchresultTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-01 20:07:39,244 [Worker-36: Launching SearchresultTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LENOVO\eclipse-workspace\eclipse2022\pomf\src\test\resources
