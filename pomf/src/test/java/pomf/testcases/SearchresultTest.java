@@ -30,5 +30,10 @@ IndexPage indexpage;
 		boolean result = searchresultpage.validateString();
 		Assert.assertTrue(result);
 	}
+	
+	@Test
+	public void verifyproduct() {
+		System.out.println("ProductName");
+	}
 
 }
